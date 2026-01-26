@@ -19,14 +19,14 @@ Pasting SVG using the button in the "SVG Bridge" ribbon tab.
 
 ---
 ## 😎 Pro version includes:
-•	Intelligent Ctrl+V / Cmd+V Override:  
+### •	Intelligent Ctrl+V / Cmd+V Override:  
 Your standard paste command is now SVG-aware. It automatically converts SVG code into a vector shape.
 
-•	Full UI Access:  
+### •	Full UI Access:  
 For manual control, dedicated buttons are available on the Home Tab, the SVG Bridge tab, and in the right-click context menu.
 <p align="center"><img src="https://public-files.gumroad.com/l8lyzw7s736m3eses4xpe68v1uku" alt="UI Access" width="80%"></p>
 
-•	Size Control Toggle:  
+### •	Size Control Toggle:  
 Enable the toggle for when pasting squared icons — it will paste smaller size icons to be more manageable in your workflow.
 <p align="center"><img src="https://public-files.gumroad.com/kuubkv5obcb577982t9kjf98kzvu" alt="UI Access" width="80%"></p>
 
@@ -36,7 +36,7 @@ Enable the toggle for when pasting squared icons — it will paste smaller size 
 Mac users know the frustration of copying and pasting from Adobe Illustrator and getting a static PNG picture!  
 SVG Bridge solves this by intelligently converting SVG code into fully editable, scalable vector objects (Graphic Object) right inside PowerPoint.
 
-For workflow from Adobe Illustrator on Mac you need to enable "Include SVG Code":  
+#### For workflow from Adobe Illustrator on Mac you need to enable "Include SVG Code":  
 Illustrator > Settings > File Handling & Clipboard > Clipboard > "Include SVG Code" Checkbox
 <p align="center"><img src="https://public-files.gumroad.com/sibrpvffk37oytmcab1hr4ijjyl4" alt="UI Access" width="80%"></p>
 
