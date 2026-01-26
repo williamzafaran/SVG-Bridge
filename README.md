@@ -1,9 +1,10 @@
 # SVG Bridge
 
 Say Goodbye to:
+
 •	Save as SVG  
 •	Insert Picture > This Device > Browse > Insert > Resize  
-Bluuh!! 🤮
+# Bluuh!! 🤮
 
 Meet SVG Bridge 🤩
 
