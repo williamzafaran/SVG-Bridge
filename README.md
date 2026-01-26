@@ -1,3 +1,5 @@
+<p align="center"><img src="/Banner.png" alt="SVG Bridge banner" width="100%"></p>
+
 # SVG Bridge
 
 Say Goodbye to:
