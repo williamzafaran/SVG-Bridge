@@ -6,13 +6,17 @@ Say Goodbye to:
 •	Insert Picture > This Device > Browse > Insert > Resize  
 # Bluuh!! 🤮
 
-Meet SVG Bridge 🤩
+
+# Meet SVG Bridge 🤩
 
 Designed to bridge the gap between design tools and presentations, SVG Bridge lets you paste raw SVG code from most sources (Figma, icon libraries, and web sources) directly onto your slide as a crisp, fully editable vector graphic.
 
 ---
+## 🤑 FREE version includes:
+Pasting SVG using the button in the "SVG Bridge" ribbon tab.
 
-## Pro version includes:
+---
+## 😎 Pro version includes:
 •	Intelligent Ctrl+V / Cmd+V Override:  
 Your standard paste command is now SVG-aware. It automatically converts SVG code into a vector shape.
 
@@ -22,10 +26,6 @@ For manual control, dedicated buttons are available on the Home Tab, the SVG Bri
 •	Size Control Toggle:  
 Enable the toggle for when pasting squared icons — it will paste smaller size icons to be more manageable in your workflow.
 
----
-
-🤑 FREE version available at:  
-https://williamzafaran.gumroad.com/l/SVGBridgeFree
 
 ---
 
@@ -43,8 +43,8 @@ Due to the way Illustrator handles its clipboard, the Cmd+V override does NOT WO
 
 ## Installation
 Download the Free or Pro version from Gumroad:
-- Pro: https://williamzafaran.gumroad.com/l/SVGBridgePro
-- Free: https://williamzafaran.gumroad.com/l/SVGBridgeFree
+- 😎 Pro: https://williamzafaran.gumroad.com/l/SVGBridgePro
+- 🤑 Free: https://williamzafaran.gumroad.com/l/SVGBridgeFree
 
 Follow the included installation instructions for your version (add-in installation steps are provided with the download).
 
@@ -60,10 +60,7 @@ Follow the included installation instructions for your version (add-in installat
 ---
 
 ## Support & Contact
-If you need help, have questions, or want to request features, contact William Zafaran via the Gumroad product page or raise an issue in this repository.
-
-Gumroad (Pro): https://williamzafaran.gumroad.com/l/SVGBridgePro  
-Gumroad (Free): https://williamzafaran.gumroad.com/l/SVGBridgeFree
+If you need help, have questions, or want to request features, contact me via the Gumroad product page or raise an issue in this repository.
 
 ---
 
