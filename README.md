@@ -24,10 +24,11 @@ Your standard paste command is now SVG-aware. It automatically converts SVG code
 
 •	Full UI Access:  
 For manual control, dedicated buttons are available on the Home Tab, the SVG Bridge tab, and in the right-click context menu.
+<p align="center"><img src="https://public-files.gumroad.com/l8lyzw7s736m3eses4xpe68v1uku" alt="UI Access" width="80%"></p>
 
 •	Size Control Toggle:  
 Enable the toggle for when pasting squared icons — it will paste smaller size icons to be more manageable in your workflow.
-
+<p align="center"><img src="https://public-files.gumroad.com/kuubkv5obcb577982t9kjf98kzvu" alt="UI Access" width="80%"></p>
 
 ---
 
@@ -37,8 +38,9 @@ SVG Bridge solves this by intelligently converting SVG code into fully editable,
 
 For workflow from Adobe Illustrator on Mac you need to enable "Include SVG Code":  
 Illustrator > Settings > File Handling & Clipboard > Clipboard > "Include SVG Code" Checkbox
+<p align="center"><img src="https://public-files.gumroad.com/sibrpvffk37oytmcab1hr4ijjyl4" alt="UI Access" width="80%"></p>
 
-Note:  
+### Note:  
 Due to the way Illustrator handles its clipboard, the Cmd+V override does NOT WORK! For Illustrator vectors, please use the dedicated "Paste as SVG" buttons in the ribbon or right-click menu for a perfect result.
 
 ---
