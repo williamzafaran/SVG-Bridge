@@ -47,8 +47,8 @@ Due to the way Illustrator handles its clipboard, the Cmd+V override does NOT WO
 
 ## Installation
 Download the Free or Pro version from Gumroad:
-- 😎 Pro: https://williamzafaran.gumroad.com/l/SVGBridgePro
-- 🤑 Free: https://williamzafaran.gumroad.com/l/SVGBridgeFree
+- 😎 [Pro Version](https://williamzafaran.gumroad.com/l/SVGBridgePro?layout=github)
+- 🤑 [Free Version](https://williamzafaran.gumroad.com/l/SVGBridgeFree?layout=github)
 
 Follow the included installation instructions for your version (add-in installation steps are provided with the download).
 
