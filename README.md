@@ -14,9 +14,7 @@ Say Goodbye to:
 
 Designed to bridge the gap between design tools and presentations, SVG Bridge lets you paste raw SVG code from most sources (Figma, icon libraries, and web sources) directly onto your slide as a crisp, fully editable vector graphic.
 
-
-
-<p align="center"><img src="/Assets/Paste As SVG Flaticon.gif" width="100%"></p>
+<p align="center"><img src="/Assets/Paste As SVG Flaticon.gif" width="80%"></p>
 
 ---
 ## 🤑 FREE version includes:
@@ -40,6 +38,8 @@ Enable the toggle for when pasting squared icons — it will paste smaller size 
 ## Solves the Mac "Illustrator-to-PPT" Problem
 Mac users know the frustration of copying and pasting from Adobe Illustrator and getting a static PNG picture!  
 SVG Bridge solves this by intelligently converting SVG code into fully editable, scalable vector objects (Graphic Object) right inside PowerPoint.
+
+<p align="center"><img src="/Assets/Illustratorcopypaste.gif" width="80%"></p>
 
 #### For workflow from Adobe Illustrator on Mac you need to enable "Include SVG Code":  
 Illustrator > Settings > File Handling & Clipboard > Clipboard > "Include SVG Code" Checkbox
